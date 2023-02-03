@@ -1,0 +1,5 @@
+*terraform*
+passwd
+.cache/
+.local/
+app.zip
